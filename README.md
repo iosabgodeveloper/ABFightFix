@@ -3,3 +3,5 @@ Simple .deb for use with sideloadly to fix ABFight breaking after crashing for t
 
 Works for iOS 8-18 , not sure about iOS 26 , haven't tested. 
 Primarily made to fix AB Fight Webpit crashes on iOS
+
+Latest release [here](https://github.com/iosabgodeveloper/ABFightFix/releases/tag/Release).
